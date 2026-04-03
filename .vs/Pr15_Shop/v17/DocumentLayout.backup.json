@@ -1,81 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\",
+  "WorkspaceRootPath": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\models\\pr15shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\models\\pr15shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\models\\pr15shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\service\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\service\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\service\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\pages\\managerpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\pages\\managerpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\managerpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\pages\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\pages\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\pages\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\pages\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\pages\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\pages\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\pages\\kattegbrands.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\pages\\kattegbrands.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\kattegbrands.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\pages\\kattegbrands.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\pages\\kattegbrands.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\kattegbrands.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\pages\\vhod.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\pages\\vhod.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\vhod.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\pages\\vhod.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\pages\\vhod.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\vhod.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15-master\\pr15_shop\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\users\\maibenben\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo_15\\pr15_shop\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -96,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Pr15_Shop\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\MainWindow.xaml",
               "RelativeToolTip": "Pr15_Shop\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-04-02T19:16:01.783Z"
@@ -107,9 +107,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ManagerPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\ManagerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\ManagerPage.xaml.cs",
               "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\ManagerPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\ManagerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\ManagerPage.xaml.cs",
               "RelativeToolTip": "Pr15_Shop\\Pages\\ManagerPage.xaml.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAASwEoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,24 +119,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DBService.cs",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Service\\DBService.cs",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Service\\DBService.cs",
               "RelativeDocumentMoniker": "Pr15_Shop\\Service\\DBService.cs",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Service\\DBService.cs",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Service\\DBService.cs",
               "RelativeToolTip": "Pr15_Shop\\Service\\DBService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T15:30:15.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-22T15:30:15.976Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Pr15ShopContext.cs",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Models\\Pr15ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Models\\Pr15ShopContext.cs",
               "RelativeDocumentMoniker": "Pr15_Shop\\Models\\Pr15ShopContext.cs",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Models\\Pr15ShopContext.cs",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Models\\Pr15ShopContext.cs",
               "RelativeToolTip": "Pr15_Shop\\Models\\Pr15ShopContext.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-22T15:44:52.538Z",
               "EditorCaption": ""
@@ -145,9 +144,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "KatTegBrands.xaml",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\KatTegBrands.xaml",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\KatTegBrands.xaml",
               "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\KatTegBrands.xaml",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\KatTegBrands.xaml",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\KatTegBrands.xaml",
               "RelativeToolTip": "Pr15_Shop\\Pages\\KatTegBrands.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-22T13:45:58.135Z"
@@ -156,9 +155,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\MainPage.xaml",
               "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\MainPage.xaml",
               "RelativeToolTip": "Pr15_Shop\\Pages\\MainPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-22T05:46:37.467Z"
@@ -167,9 +166,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ProductTag.cs",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Models\\ProductTag.cs",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Models\\ProductTag.cs",
               "RelativeDocumentMoniker": "Pr15_Shop\\Models\\ProductTag.cs",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Models\\ProductTag.cs",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Models\\ProductTag.cs",
               "RelativeToolTip": "Pr15_Shop\\Models\\ProductTag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,9 +178,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Models\\Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "Pr15_Shop\\Models\\Tag.cs",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Models\\Tag.cs",
               "RelativeToolTip": "Pr15_Shop\\Models\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,9 +190,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Models\\Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Models\\Brand.cs",
               "RelativeDocumentMoniker": "Pr15_Shop\\Models\\Brand.cs",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Models\\Brand.cs",
               "RelativeToolTip": "Pr15_Shop\\Models\\Brand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,22 +202,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Pr15_Shop\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Models\\Category.cs",
               "RelativeToolTip": "Pr15_Shop\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T07:31:51.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T07:31:51.077Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "AddProductPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\AddProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\AddProductPage.xaml.cs",
               "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\AddProductPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\AddProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\AddProductPage.xaml.cs",
               "RelativeToolTip": "Pr15_Shop\\Pages\\AddProductPage.xaml.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAAuwGcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -228,9 +226,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ManagerPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\ManagerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\ManagerPage.xaml",
               "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\ManagerPage.xaml",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\ManagerPage.xaml",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\ManagerPage.xaml",
               "RelativeToolTip": "Pr15_Shop\\Pages\\ManagerPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-22T13:24:58.557Z"
@@ -239,9 +237,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Pr15_Shop\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Models\\Product.cs",
               "RelativeToolTip": "Pr15_Shop\\Models\\Product.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -251,9 +249,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "KatTegBrands.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\KatTegBrands.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\KatTegBrands.xaml.cs",
               "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\KatTegBrands.xaml.cs",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\KatTegBrands.xaml.cs",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\KatTegBrands.xaml.cs",
               "RelativeToolTip": "Pr15_Shop\\Pages\\KatTegBrands.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,9 +261,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "AddProductPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\AddProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\AddProductPage.xaml",
               "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\AddProductPage.xaml",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\AddProductPage.xaml",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\AddProductPage.xaml",
               "RelativeToolTip": "Pr15_Shop\\Pages\\AddProductPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-22T13:45:25.817Z"
@@ -274,9 +272,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\App.xaml",
               "RelativeDocumentMoniker": "Pr15_Shop\\App.xaml",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\App.xaml",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\App.xaml",
               "RelativeToolTip": "Pr15_Shop\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-21T08:46:22.565Z"
@@ -285,9 +283,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Vhod.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\Vhod.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\Vhod.xaml.cs",
               "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\Vhod.xaml.cs",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\Vhod.xaml.cs",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\Vhod.xaml.cs",
               "RelativeToolTip": "Pr15_Shop\\Pages\\Vhod.xaml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAxwCMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -297,9 +295,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Vhod.xaml",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\Vhod.xaml",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\Vhod.xaml",
               "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\Vhod.xaml",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\Vhod.xaml",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\Vhod.xaml",
               "RelativeToolTip": "Pr15_Shop\\Pages\\Vhod.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-24T08:13:43.868Z"
@@ -308,9 +306,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15-master\\Pr15_Shop\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Maibenben\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO_15\\Pr15_Shop\\Pages\\MainPage.xaml.cs",
               "RelativeToolTip": "Pr15_Shop\\Pages\\MainPage.xaml.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAADwv0oAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

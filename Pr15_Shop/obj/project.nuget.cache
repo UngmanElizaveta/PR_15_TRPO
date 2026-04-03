@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kb9dZyq3Scs=",
+  "dgSpecHash": "MmIVBbEyles=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maibenben\\OneDrive\\Рабочий стол\\TRPO_15-master\\Pr15_Shop\\Pr15_Shop.csproj",
+  "projectFilePath": "C:\\Users\\Maibenben\\OneDrive\\Рабочий стол\\TRPO_15\\Pr15_Shop\\Pr15_Shop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maibenben\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Maibenben\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
